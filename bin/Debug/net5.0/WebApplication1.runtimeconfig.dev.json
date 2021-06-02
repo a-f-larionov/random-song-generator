@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\aflar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aflar\\.nuget\\packages"
+    ]
+  }
+}
